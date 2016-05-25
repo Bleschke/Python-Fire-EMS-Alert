@@ -1,7 +1,7 @@
 # Brian Leschke
 # May 24, 2016
 # Version 1.0
-# Python Morning Weather Alert
+# Python Fire EMS Alert
 # Some code may have been taken from
 # other sources.
 
